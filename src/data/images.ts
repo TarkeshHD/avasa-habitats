@@ -1,0 +1,63 @@
+export const IMAGES = {
+  villaHero: 'https://images.pexels.com/photos/7031600/pexels-photo-7031600.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaExterior1: 'https://images.pexels.com/photos/7031594/pexels-photo-7031594.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaExterior2: 'https://images.pexels.com/photos/7031602/pexels-photo-7031602.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaExterior3: 'https://images.pexels.com/photos/7031598/pexels-photo-7031598.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaLuxury1: 'https://images.pexels.com/photos/8134745/pexels-photo-8134745.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaLuxury2: 'https://images.pexels.com/photos/17174768/pexels-photo-17174768.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaModern1: 'https://images.pexels.com/photos/10647324/pexels-photo-10647324.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaSunset: 'https://images.pexels.com/photos/36676879/pexels-photo-36676879.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaDusk1: 'https://images.pexels.com/photos/24805054/pexels-photo-24805054.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaDusk2: 'https://images.pexels.com/photos/13752348/pexels-photo-13752348.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaDusk3: 'https://images.pexels.com/photos/19075387/pexels-photo-19075387.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  villaStone: 'https://images.pexels.com/photos/28054862/pexels-photo-28054862.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  constructionEngineers1: 'https://images.pexels.com/photos/8961146/pexels-photo-8961146.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionEngineers2: 'https://images.pexels.com/photos/8961065/pexels-photo-8961065.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionEngineers3: 'https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionInspect: 'https://images.pexels.com/photos/8960942/pexels-photo-8960942.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionInspect2: 'https://images.pexels.com/photos/8482824/pexels-photo-8482824.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionBlueprint: 'https://images.pexels.com/photos/8482865/pexels-photo-8482865.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionPlanning: 'https://images.pexels.com/photos/7937367/pexels-photo-7937367.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  constructionPlans: 'https://images.pexels.com/photos/24525165/pexels-photo-24525165.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  formwork1: 'https://images.pexels.com/photos/39129108/pexels-photo-39129108.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  foundation1: 'https://images.pexels.com/photos/36606410/pexels-photo-36606410.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  formworkMono: 'https://images.pexels.com/photos/36833957/pexels-photo-36833957.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  rebarFormwork: 'https://images.pexels.com/photos/38520003/pexels-photo-38520003.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  concreteFinish: 'https://images.pexels.com/photos/4134382/pexels-photo-4134382.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  rebarFoundation: 'https://images.pexels.com/photos/37733179/pexels-photo-37733179.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  blueprint1: 'https://images.pexels.com/photos/4458205/pexels-photo-4458205.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  blueprint2: 'https://images.pexels.com/photos/9052461/pexels-photo-9052461.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  blueprint3: 'https://images.pexels.com/photos/4458196/pexels-photo-4458196.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  blueprint4: 'https://images.pexels.com/photos/4458210/pexels-photo-4458210.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  blueprintStack: 'https://images.pexels.com/photos/6614786/pexels-photo-6614786.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  interior1: 'https://images.pexels.com/photos/8089172/pexels-photo-8089172.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  interior2: 'https://images.pexels.com/photos/8135492/pexels-photo-8135492.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  interior3: 'https://images.pexels.com/photos/8082243/pexels-photo-8082243.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  interior4: 'https://images.pexels.com/photos/7546323/pexels-photo-7546323.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  interior5: 'https://images.pexels.com/photos/36777507/pexels-photo-36777507.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  interiorMinimal: 'https://images.pexels.com/photos/27164969/pexels-photo-27164969.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  townhouse1: 'https://images.pexels.com/photos/5505133/pexels-photo-5505133.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  townhouse2: 'https://images.pexels.com/photos/33258708/pexels-photo-33258708.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  townhouse3: 'https://images.pexels.com/photos/5505129/pexels-photo-5505129.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  urbanAlley: 'https://images.pexels.com/photos/16787450/pexels-photo-16787450.png?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  plotLand: 'https://images.pexels.com/photos/36422828/pexels-photo-36422828.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  keysHandover1: 'https://images.pexels.com/photos/8730048/pexels-photo-8730048.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  keysHandover2: 'https://images.pexels.com/photos/7641906/pexels-photo-7641906.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  keysCloseup: 'https://images.pexels.com/photos/31651009/pexels-photo-31651009.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  meeting1: 'https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  meeting2: 'https://images.pexels.com/photos/7876895/pexels-photo-7876895.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  meeting3: 'https://images.pexels.com/photos/7698712/pexels-photo-7698712.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+
+  materialConcrete: 'https://images.pexels.com/photos/35735193/pexels-photo-35735193.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  materialBricks: 'https://images.pexels.com/photos/33617858/pexels-photo-33617858.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  materialRebar: 'https://images.pexels.com/photos/35598611/pexels-photo-35598611.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+  materialBlocks: 'https://images.pexels.com/photos/9685872/pexels-photo-9685872.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280',
+};
